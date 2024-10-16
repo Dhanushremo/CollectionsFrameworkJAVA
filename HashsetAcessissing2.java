@@ -13,6 +13,7 @@ public class HashsetAcessissing2 {
 		hs.add("Virat");
 		hs.add("Hardik");
 		hs.add("Jadeja");
+		hs.add(null);
 		System.out.println(hs);
 		for(Object o:hs) {
 			System.out.print(o+" ");
